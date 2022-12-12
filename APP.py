@@ -53,6 +53,6 @@ You can use this resale value prediction for cars and bikes.""")
 
 
 
-st.write("Check out [Github](https://github.com/pragya-vats/Auto_Price_Prediction) for more information about this Project")
+st.write("Check out [Github](https://github.com/pragya-vats/auto_price_prediction) for more information about this Project")
 
 
