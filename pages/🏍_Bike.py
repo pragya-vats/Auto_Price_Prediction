@@ -80,7 +80,7 @@ if col.button('Predict'):
                               data=np.array([Selected_Model,Selected_Brand,Year,Kms_driven]).reshape(1, 4))))
 
     prediction = str(int(np.round(pred[0],2)))
-    st.write("### Predicted Price is : ₹",prediction)
+    st.write("### Estimated Resale Value is : ₹",prediction)
     
 
 st.markdown("""
