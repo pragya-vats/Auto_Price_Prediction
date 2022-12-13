@@ -22,4 +22,4 @@ The dataset to bulit this end-to-end project is scraped from Quikr.com, for Cars
 ## Technologies used 
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
-
+![Framework](https://img.shields.io/badge/Framework-Streamlit-black)
