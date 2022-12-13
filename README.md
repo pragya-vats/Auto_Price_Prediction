@@ -24,3 +24,6 @@ The dataset to bulit this end-to-end project is scraped from Quikr.com, for Cars
 ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
 ![Framework](https://img.shields.io/badge/Framework-Streamlit-black)
 ![Deployment](https://img.shields.io/badge/Deployment-AWS-orange)
+
+The website is active on : https://pragya-vats-auto-price-prediction-app-5ujpv2.streamlit.app/
+
