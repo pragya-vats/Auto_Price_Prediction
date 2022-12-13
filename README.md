@@ -26,7 +26,7 @@ The dataset to bulit this end-to-end project is scraped from Quikr.com, for Cars
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Web Scrapping](https://img.shields.io/badge/Web%20Scrapping-Selenium-green)
 ![Web Scrapping](https://img.shields.io/badge/Web%20Scrapping-BeautifulSoup-blue)
-![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![Notebook](https://img.shields.io/badge/Notebook-Jupyter-green)
 ![Framework](https://img.shields.io/badge/Framework-Streamlit-black)
 ![Deployment](https://img.shields.io/badge/Deployment-AWS-orange)
 
