@@ -20,4 +20,5 @@ The dataset to bulit this end-to-end project is scraped from Quikr.com, for Cars
 5. Deployment
 
 ## Technologies used 
+![](https://forthebadge.com/images/badges/made-with-python.svg)
 ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
