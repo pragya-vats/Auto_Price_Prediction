@@ -18,3 +18,6 @@ The dataset to bulit this end-to-end project is scraped from Quikr.com, for Cars
 3. Model Building
 4. Evaluation
 5. Deployment
+
+## Technologies used 
+![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
