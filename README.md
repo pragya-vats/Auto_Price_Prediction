@@ -22,4 +22,4 @@ The dataset to bulit this end-to-end project is scraped from Quikr.com, for Cars
 ## Technologies used 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
-![!Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+![!Streamlit](https://share.streamlit.io/jkanner/streamlit-audio/main/app.py)
