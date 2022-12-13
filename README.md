@@ -12,4 +12,9 @@ CRISP-DM methodology is followed while building this project
 ## Dataset
 The dataset to bulit this end-to-end project is scraped from Quikr.com, for Cars and Bikes seperately, using Selenium and Beautiful Soup libraries.
 
-
+## Steps
+1. [Data Collection]
+2. [Data Cleaning, Filtering, EDA, Feature Engineering]
+3. [Model Building]
+4. [Evaluation]
+5. [Deployment]
