@@ -20,6 +20,6 @@ The dataset to bulit this end-to-end project is scraped from Quikr.com, for Cars
 5. Deployment
 
 ## Technologies used 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
+![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
-![!Streamlit](https://share.streamlit.io/jkanner/streamlit-audio/main/app.py)
+
